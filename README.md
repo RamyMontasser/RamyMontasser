@@ -1,16 +1,56 @@
-## Hi there 👋
+             👋 HELLO THERE!
 
-<!--
-**RamyMontasser/RamyMontasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        I'm Rami Montasser
 
-Here are some ideas to get you started:
+       Flutter Developer 📱
+    Computer Science Student 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [ LinkedIn ] [ GitHub ] [ Email ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+              🚀 About Me
+
+  I build beautiful and scalable mobile
+  applications using Flutter & Dart.
+
+  Currently working on Motoverse 🚗
+  and exploring clean architecture,
+  real-time communication & backend integration.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             🛠️ Tech Stack
+
+       💙 Flutter    🎯 Dart
+       🧩 Bloc       🔥 Firebase
+       🌐 REST API   ⚡ WebSocket
+       🏗️ Clean Architecture
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           🚗 Featured Project
+
+                 MOTOverse
+
+       Flutter × Django × WebSocket
+
+     [ screenshots / project link ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             📊 GitHub Stats
+
+       [ Stats ]       [ Languages ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+          🌱 Currently Learning
+
+       Advanced Flutter
+       Testing & CI/CD
+       Scalable Architecture
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+       💬 Let's build something!
