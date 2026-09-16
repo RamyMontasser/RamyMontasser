@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a Computer Science student and Flutter Developer focused on building modern, responsive, and maintainable mobile applications.
+I'm a Flutter Developer focused on building modern, responsive, and maintainable mobile applications.
 
 I enjoy working with Flutter and Dart, integrating APIs, managing application state, and turning UI designs into functional applications.
 
