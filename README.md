@@ -1,163 +1,195 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=42A5F5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey!+I'm+Rami+Montasser+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Building+apps%2C+learning%2C+and+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=42A5F5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey!+I'm+Rami+Montasser;Flutter+Developer;Building+apps%2C+learning%2C+and+shipping" alt="Typing SVG" />
 
 <br>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Computer Science student** and **Flutter Developer** who enjoys turning ideas into real, user-friendly mobile applications.
+I'm a Computer Science student and Flutter Developer focused on building modern, responsive mobile applications with Flutter and Dart.
 
-I mainly work with **Flutter & Dart**, with a focus on clean code, scalable architecture, and smooth user experiences.
+I enjoy turning ideas into real applications while focusing on clean code, maintainable architecture, and a smooth user experience.
 
-* 📱 Building cross-platform mobile applications with Flutter
-* 🧩 Working with **Bloc/Cubit** for state management
-* 🏗️ Applying **Clean Architecture** in Flutter projects
-* 🔌 Integrating **REST APIs, Firebase, and WebSockets**
-* 🚗 Currently working on **Motoverse**, my graduation project
-* 🌱 Continuously learning and improving my Flutter development skills
+* Flutter & Dart development
+* State management with Bloc / Cubit
+* Clean Architecture
+* REST API integration
+* Firebase & Firestore
+* WebSocket integration
+* Local data storage with Hive
+* Dependency injection with GetIt
+* Responsive UI and localization
 
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-</p>
-
-### 🧠 Architecture & State Management
-
-<p>
-  <img src="https://img.shields.io/badge/Bloc%2FCubit-42A5F5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-555555?style=for-the-badge" />
-</p>
-
-### 🔌 Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,django" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dio-42A5F5?style=for-the-badge" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-### 💻 Other Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
-</p>
+Currently working on **Motoverse**, my graduation project.
 
 ---
 
-## 🚀 Featured Project
+## Tech Stack
 
-### 🚗 Motoverse
+### Languages
 
-**Motoverse** is a mobile platform focused on connecting users with automotive services.
+<p>
+<img src="https://skillicons.dev/icons?i=dart,python,cpp,bash" />
+</p>
 
-Built as a graduation project using:
+### Flutter Development
 
-`Flutter` • `Django` • `REST APIs` • `WebSockets` • `Firebase`
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### ✨ Key Features
+<p>
+<img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-42A5F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive%20UI-42A5F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Localization-333333?style=for-the-badge" />
+</p>
 
-* 💬 Real-time user communication
-* 🛠️ Automotive service center discovery
-* 📍 Location & map integration
-* 🔐 Identity verification
-* 📡 Real-time communication with backend services
-* ⭐ Service request, offers, completion & reviews workflow
+### Backend Integration
 
-> Building Motoverse has been a great opportunity to work on a real-world application involving mobile development, backend integration, authentication, real-time communication, and scalable project architecture.
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dio-42A5F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge" />
+</p>
+
+### Local Storage & Architecture
+
+<p>
+<img src="https://img.shields.io/badge/Hive-42A5F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GetIt-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flutter%20Secure%20Storage-42A5F5?style=for-the-badge" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Other Projects
+## Featured Project
 
-| Project                             | Description                                                         | Technologies               |
-| ----------------------------------- | ------------------------------------------------------------------- | -------------------------- |
-| 🛒 **E-Commerce App**               | Mobile shopping experience with product browsing and app navigation | Flutter • Dart • Cubit     |
-| 📰 **News App**                     | News application consuming external APIs                            | Flutter • REST API • Cubit |
-| 📝 **Notes App**                    | Local note-taking application                                       | Flutter • Dart • Hive      |
-| 📱 **Mobile Recommendation System** | Smartphone recommendation based on user requirements                | Python                     |
-| 🎮 **Flappy Bird**                  | Simple game implementation                                          | Python • OpenGL            |
+### Motoverse
+
+Motoverse is a mobile platform focused on automotive services, developed as my graduation project.
+
+The application is built with Flutter and integrates with a backend through REST APIs and real-time communication.
+
+**Technologies**
+
+`Flutter` `Dart` `Bloc/Cubit` `REST API` `Dio` `WebSocket` `Firebase`
+
+**Key Features**
+
+* User authentication and authorization
+* Identity verification
+* Automotive service center discovery
+* Location and map integration
+* Real-time chat
+* Service requests and offers
+* Offer acceptance and service completion
+* Client reviews
+* Real-time communication with backend services
+
+Working on Motoverse has given me hands-on experience with API integration, state management, authentication, real-time communication, and structuring a larger Flutter application.
 
 ---
 
-## 🌱 Currently Learning
+## Other Projects
+
+### E-Commerce App
+
+A Flutter e-commerce application focused on building a responsive and structured mobile shopping experience.
+
+**Flutter · Dart · Cubit · Firebase**
+
+### News App
+
+A mobile news application that consumes external APIs and displays dynamic news content.
+
+**Flutter · Dart · REST API · Cubit**
+
+### Notes App
+
+A local note-taking application with persistent data storage.
+
+**Flutter · Dart · Hive**
+
+### Mobile Phone Recommendation System
+
+A Python-based recommendation system that suggests smartphones based on user requirements.
+
+**Python · Machine Learning**
+
+### Flappy Bird
+
+A simple game project built while exploring game development and programming fundamentals.
+
+**Python · OpenGL**
+
+---
+
+## Currently Learning
 
 ```text
-Advanced Flutter Architecture
-        ↓
-Testing & Clean Code
-        ↓
+Advanced Flutter Development
+Clean Code & Software Architecture
+Flutter Testing
 Performance Optimization
-        ↓
-CI/CD & Deployment
+CI/CD for Flutter Applications
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
+## Let's Connect
+
+I'm currently interested in Flutter internships, junior opportunities, and projects where I can continue growing as a mobile developer.
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
 <br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in **Flutter opportunities, interesting projects, and connecting with other developers.**
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-### 💙 Built with Flutter & curiosity.
+Built with Flutter, Dart, and curiosity.
 
 </div>
