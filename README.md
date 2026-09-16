@@ -88,7 +88,7 @@ My graduation project built with Flutter, focused on connecting car owners with 
 <br/>
 
 `Flutter` `Dart` `Bloc/Cubit`
-`REST API` `Dio` `WebSockets` `Firebase`
+`REST API` `Dio` `WebSockets` `MapBox`
 
 <br/>
 
