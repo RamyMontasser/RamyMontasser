@@ -34,7 +34,7 @@
 
 <div align="center">
 
-I'm a **Computer Science student and Flutter Developer** passionate about creating modern mobile applications.
+I'm a **Flutter Developer** passionate about creating modern mobile applications.
 
 I enjoy transforming ideas and designs into **responsive, scalable, and maintainable Flutter applications**, while continuously improving my architecture, API integration, and development practices.
 
