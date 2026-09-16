@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=42A5F5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey!+I'm+Rami+Montasser;Flutter+Developer;Building+apps%2C+learning%2C+and+shipping" alt="Typing SVG" />
+# Hey! I'm Ramy Montasser
 
-<br>
+### Flutter Developer
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Building mobile apps with Flutter & Dart
+Learning, building, and turning ideas into real applications.
+
+<p>
+  <a href="https://linkedin.com/in/ramy-montasser">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[ramy.montasser123@gmail.com](mailto:ramy.montasser123@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RamyMontasser">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -20,141 +25,120 @@
 
 ## About Me
 
-I'm a Computer Science student and Flutter Developer focused on building modern, responsive mobile applications with Flutter and Dart.
+I'm a Computer Science student and Flutter Developer focused on building modern, responsive, and maintainable mobile applications.
 
-I enjoy turning ideas into real applications while focusing on clean code, maintainable architecture, and a smooth user experience.
+I enjoy working with Flutter and Dart, integrating APIs, managing application state, and turning UI designs into functional applications.
 
-* Flutter & Dart development
-* State management with Bloc / Cubit
-* Clean Architecture
-* REST API integration
-* Firebase & Firestore
-* WebSocket integration
-* Local data storage with Hive
-* Dependency injection with GetIt
-* Responsive UI and localization
-
-Currently working on **Motoverse**, my graduation project.
+Currently, I'm focused on improving my Flutter development skills, writing cleaner code, and building real-world projects.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Flutter & Dart
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,python,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
-### Flutter Development
+* Flutter
+* Dart
+* Bloc / Cubit
+* Clean Architecture
+* Responsive UI
+* Localization
+* UI implementation
+
+### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
+
+* REST APIs
+* Dio
+* Firebase / Firestore
+* WebSockets
+* JSON & API integration
+
+### Storage & Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-42A5F5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Responsive%20UI-42A5F5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Localization-333333?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Backend Integration
+* Hive
+* Flutter Secure Storage
+* GetIt
+* Git & GitHub
+* VS Code
+
+### Other Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dio-42A5F5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
 </p>
 
-### Local Storage & Architecture
-
-<p>
-<img src="https://img.shields.io/badge/Hive-42A5F5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GetIt-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flutter%20Secure%20Storage-42A5F5?style=for-the-badge" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+* Python
+* C++
+* Bash
 
 ---
 
 ## Featured Project
 
-### Motoverse
+### MotoVerse
 
-Motoverse is a mobile platform focused on automotive services, developed as my graduation project.
+A Flutter-based graduation project focused on automotive services and connecting car owners with service providers.
 
-The application is built with Flutter and integrates with a backend through REST APIs and real-time communication.
+**Key Features:**
 
-**Technologies**
-
-`Flutter` `Dart` `Bloc/Cubit` `REST API` `Dio` `WebSocket` `Firebase`
-
-**Key Features**
-
-* User authentication and authorization
+* Authentication and user management
 * Identity verification
-* Automotive service center discovery
-* Location and map integration
-* Real-time chat
+* Service center discovery
+* Maps and location-based services
+* Real-time chat using WebSockets
 * Service requests and offers
-* Offer acceptance and service completion
-* Client reviews
-* Real-time communication with backend services
+* Offer acceptance and work completion
+* Client reviews and ratings
+* REST API integration
+* Firebase integration
 
-Working on Motoverse has given me hands-on experience with API integration, state management, authentication, real-time communication, and structuring a larger Flutter application.
+**Tech:** Flutter · Dart · Bloc/Cubit · Dio · REST APIs · WebSockets · Firebase
+
+[View MotoVerse →](https://github.com/RamyMontasser/MotoVerse)
 
 ---
 
 ## Other Projects
 
-### E-Commerce App
+### Green House
 
-A Flutter e-commerce application focused on building a responsive and structured mobile shopping experience.
+A Flutter project focused on a smart greenhouse concept and mobile application development.
 
-**Flutter · Dart · Cubit · Firebase**
+[View Project →](https://github.com/RamyMontasser/green-house)
 
-### News App
+### Movie App
 
-A mobile news application that consumes external APIs and displays dynamic news content.
+A Flutter application focused on building a movie browsing experience and practicing API-based application development.
 
-**Flutter · Dart · REST API · Cubit**
+[View Project →](https://github.com/RamyMontasser/movie-app)
 
-### Notes App
+### Responsive Dashboard
 
-A local note-taking application with persistent data storage.
+A responsive Flutter dashboard project focused on creating adaptable layouts and reusable UI components.
 
-**Flutter · Dart · Hive**
-
-### Mobile Phone Recommendation System
-
-A Python-based recommendation system that suggests smartphones based on user requirements.
-
-**Python · Machine Learning**
-
-### Flappy Bird
-
-A simple game project built while exploring game development and programming fundamentals.
-
-**Python · OpenGL**
+[View Project →](https://github.com/RamyMontasser/Responsive-Dashboard)
 
 ---
 
-## Currently Learning
+## What I'm Working On
 
-```text
-Advanced Flutter Development
-Clean Code & Software Architecture
-Flutter Testing
-Performance Optimization
-CI/CD for Flutter Applications
-```
+* Improving my Flutter development skills
+* Building scalable and maintainable Flutter applications
+* Improving software architecture and clean code practices
+* Learning more about Flutter testing and performance optimization
+* Building projects that involve real API and real-time communication
 
 ---
 
@@ -162,9 +146,9 @@ CI/CD for Flutter Applications
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RamyMontasser&show_icons=true&hide_border=true&theme=transparent" height="170" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyMontasser&layout=compact&hide_border=true&theme=transparent" height="170" />
 
 </div>
 
@@ -172,24 +156,12 @@ CI/CD for Flutter Applications
 
 ## Let's Connect
 
-I'm currently interested in Flutter internships, junior opportunities, and projects where I can continue growing as a mobile developer.
+I'm currently interested in **Flutter internships, junior opportunities, and projects where I can continue growing as a mobile developer.**
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-Built with Flutter, Dart, and curiosity.
-
-</div>
+<p align="center">
+  <a href="mailto:[ramy.montasser123@gmail.com](mailto:ramy.montasser123@gmail.com)">Email</a>
+  ·
+  <a href="https://linkedin.com/in/ramy-montasser">LinkedIn</a>
+  ·
+  <a href="https://github.com/RamyMontasser">GitHub</a>
+</p>
