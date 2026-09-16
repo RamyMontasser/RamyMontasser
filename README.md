@@ -1,17 +1,12 @@
 <div align="center">
 
-# Hey! I'm Ramy Montasser
-
-### Flutter Developer
-
-Building mobile apps with Flutter & Dart
-Learning, building, and turning ideas into real applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey!+I'm+Ramy+Montasser;Flutter+Developer;Building+modern+mobile+apps;Flutter+%26+Dart+%7C+Clean+Architecture+%7C+APIs" />
 
 <p>
   <a href="https://linkedin.com/in/ramy-montasser">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[ramy.montasser123@gmail.com](mailto:ramy.montasser123@gmail.com)">
+  <a href="mailto:ramy.montasser123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RamyMontasser">
@@ -47,9 +42,8 @@ Currently, I'm focused on improving my Flutter development skills, writing clean
 * Clean Architecture
 * Responsive UI
 * Localization
-* UI implementation
 
-### Backend & Data
+### APIs & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase" />
@@ -61,7 +55,7 @@ Currently, I'm focused on improving my Flutter development skills, writing clean
 * WebSockets
 * JSON & API integration
 
-### Storage & Development Tools
+### Tools & Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -73,16 +67,6 @@ Currently, I'm focused on improving my Flutter development skills, writing clean
 * Git & GitHub
 * VS Code
 
-### Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
-</p>
-
-* Python
-* C++
-* Bash
-
 ---
 
 ## Featured Project
@@ -91,7 +75,7 @@ Currently, I'm focused on improving my Flutter development skills, writing clean
 
 A Flutter-based graduation project focused on automotive services and connecting car owners with service providers.
 
-**Key Features:**
+**Key Features**
 
 * Authentication and user management
 * Identity verification
@@ -126,7 +110,7 @@ A Flutter application focused on building a movie browsing experience and practi
 
 ### Responsive Dashboard
 
-A responsive Flutter dashboard project focused on creating adaptable layouts and reusable UI components.
+A responsive Flutter dashboard project focused on adaptable layouts and reusable UI components.
 
 [View Project →](https://github.com/RamyMontasser/Responsive-Dashboard)
 
@@ -138,7 +122,7 @@ A responsive Flutter dashboard project focused on creating adaptable layouts and
 * Building scalable and maintainable Flutter applications
 * Improving software architecture and clean code practices
 * Learning more about Flutter testing and performance optimization
-* Building projects that involve real API and real-time communication
+* Building projects involving APIs and real-time communication
 
 ---
 
@@ -159,7 +143,7 @@ A responsive Flutter dashboard project focused on creating adaptable layouts and
 I'm currently interested in **Flutter internships, junior opportunities, and projects where I can continue growing as a mobile developer.**
 
 <p align="center">
-  <a href="mailto:[ramy.montasser123@gmail.com](mailto:ramy.montasser123@gmail.com)">Email</a>
+  <a href="mailto:ramy.montasser123@gmail.com">Email</a>
   ·
   <a href="https://linkedin.com/in/ramy-montasser">LinkedIn</a>
   ·
